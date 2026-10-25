@@ -1,0 +1,7 @@
+build/
+*.jar
+__pycache__/
+*.pyc
+results/remote_run_log*.txt
+data/documents/document*.txt
+data/documents/sources.csv
